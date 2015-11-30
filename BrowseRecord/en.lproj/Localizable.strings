@@ -1,0 +1,16 @@
+"start"="Start Record";
+"end"="Stop Record";
+"record"="Recording...";
+"all"="All";
+"confirm"="Confirm";
+"cancel"="Cancel";
+"show"="Detail";
+"share"="Share";
+"copy"="Copy";
+"copysuccess"="Copy Success";
+"name"="PocketVideo";
+"maincancel"="Mail Cancel";
+"mainsuccess"="Mail Saved";
+"mainsend"="Send Success";
+"mainfail"="Send Failure";
+"info"="Please enter the correct URL!";
